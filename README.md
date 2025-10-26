@@ -1,6 +1,6 @@
 # КТ №4 Задание «Большой взрыв»
 - Применить метод интеграционного тестирования большого взрыва на eShopOnWeb;
-
+# О файлах:
 - big-bang/plan/BigBang_TestPlan.md — план тестирования
 - big-bang/run/README_RUN.md — запуск в локальной среде
 - big-bang/run/scripts/build_and_run.sh — сборка и запуск
